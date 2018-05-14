@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PhotoFilters</string>
+    <string name="normal_pic">Normal</string>
+    <string name="highlight_pic">Highlight</string>
+    <string name="grayscale_pic">Grayscale</string>
+    <string name="sepia_pic">Sepia</string>
+    <string name="brightness_pic">Brightness</string>
+    <string name="round_pic">Round Corner</string>
+    <string name="smooth_pic">Smooth</string>
+    <string name="emboss_pic">Emboss</string>
+
+</resources>
